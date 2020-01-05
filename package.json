@@ -38,7 +38,7 @@
     "errors": "^0.3.0",
     "express": "^4.16.4",
     "express-error-handler": "^1.1.0",
-    "forever": "^0.15.3",
+    "forever": "^2.0.0",
     "help-nodejs": "^0.6.0",
     "homedir": "^0.6.0",
     "is-valid-path": "^0.1.1",
