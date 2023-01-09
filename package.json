@@ -45,7 +45,7 @@
     "joi": "^13.5.2",
     "js-yaml": "^3.12.1",
     "jsonfile": "^4.0.0",
-    "method-override": "^2.3.8",
+    "method-override": "^3.0.0",
     "multer": "^1.4.1",
     "mydockerjs": "^2.3.0",
     "ncp": "^2.0.0",
